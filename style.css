@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    /*font-family: ;*/
+    color: black;
+    /*font-weight: bold;*/
+}
+
+.tile {
+    width: 200px;
+    height:140px;
+    margin: 5px;
+    padding: 20px;
+    float: left; 
+}
+
+/* background colors for the tiles */
+
+.beige {
+    background-color: palegoldenrod;
+}
+
+.violet {
+    background-color: palevioletred
+}
+
+.blue {
+    background-color: lightblue;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.lions {
+    background-image: url(lion_sunset.jpg);
+}
+
+#main_container{
+    max-width: 900px;
+    max-height: 500px;
+    margin: 0 auto;  
+}
